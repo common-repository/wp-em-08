@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Euro 2008\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-05-27 17:30+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Sven Kubiak <mail@svenkubiak.de>\n"
+"Language-Team: Sven Kubiak <mail@svenkubiak.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: ./\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-em-08.php:56
+msgid "WP Euro 2008 requires min. PHP 5. Your Webserver is running"
+msgstr "WP Euro 2008 exige min. PHP 5. Votre serveur Web est "
+
+#: wp-em-08.php:61
+msgid "WP Euro 2008 could not find the required PHP-SOAP-Extension"
+msgstr "WP Euro 2008 n'a pas pu trouver le PHP-SOAP-Extension"
+
+#: wp-em-08.php:169
+msgid "Last updated"
+msgstr "Dernière mise à jour"
+
+#: wp-em-08.php:183
+msgid "Next game"
+msgstr "Prochain match"
+
+#: wp-em-08.php:194
+msgid "Germany"
+msgstr "Allemagne"
+
+#: wp-em-08.php:197
+msgid "Switzerland"
+msgstr "Suisse"
+
+#: wp-em-08.php:200
+msgid "Czech Republic"
+msgstr "Rép. tchèque"
+
+#: wp-em-08.php:203
+msgid "Portugal"
+msgstr "Portugal"
+
+#: wp-em-08.php:206
+msgid "Turkey"
+msgstr "Turquie"
+
+#: wp-em-08.php:209
+msgid "Austria"
+msgstr "Autriche"
+
+#: wp-em-08.php:212
+msgid "Croatia"
+msgstr "Croatie"
+
+#: wp-em-08.php:215
+msgid "Poland"
+msgstr "Pologne"
+
+#: wp-em-08.php:218
+msgid "Romania"
+msgstr "Roumanie"
+
+#: wp-em-08.php:221
+msgid "France"
+msgstr "France"
+
+#: wp-em-08.php:224
+msgid "Netherlands"
+msgstr "Pays-Bas"
+
+#: wp-em-08.php:227
+msgid "Italy"
+msgstr "Italie"
+
+#: wp-em-08.php:230
+msgid "Spain"
+msgstr "Espagne"
+
+#: wp-em-08.php:233
+msgid "Russia"
+msgstr "Russie"
+
+#: wp-em-08.php:236
+msgid "Sweden"
+msgstr "Suède"
+
+#: wp-em-08.php:239
+msgid "Greece"
+msgstr "Grèce"
+
+#~ msgid "LIVE"
+#~ msgstr "LIVE"
+
